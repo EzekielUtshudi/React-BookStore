@@ -16,4 +16,4 @@ const categoryReducer = (state = initialState, action) => {
   }
 };
 
-export default categoryReducer
+export default categoryReducer;
